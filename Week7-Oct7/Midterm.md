@@ -177,14 +177,22 @@ lec4-lifecycle-activities - .pdf
 
 
 15) Know what views, layouts, and widgets are and how they are related 
+
+
  
 16) Know what constraints are 
+    
 a. What is bias? 
+
 b. What are guidelines? 
+
 c. What are margins? 
+
 d. What are chains? 
+
 e. What are opposing constraints? 
  
-17) How do you register event handlers? 
+17)  How do you register event handlers? 
+  
 a. In XML or Kotlin? 
  
