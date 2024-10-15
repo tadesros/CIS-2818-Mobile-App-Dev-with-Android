@@ -178,7 +178,7 @@ lec4-lifecycle-activities - .pdf
 
 15) Know what views, layouts, and widgets are and how they are related 
 
-
+>
  
 16) Know what constraints are 
     
